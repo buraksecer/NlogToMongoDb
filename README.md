@@ -1,0 +1,2 @@
+# NlogToMongoDb
+With .Net Core
